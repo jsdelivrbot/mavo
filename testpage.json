@@ -1,5 +1,7 @@
 {
 	"title": "Mavo experiment",
 	"description": "Lorem ipsum dolor sit amet, consectetur <strong>adipiscing</strong> elit. Suspendisse porta arcu magna.",
-	"image": "https://cdn.rawgit.com/paulcowtan/mavo/d337b802ef450cfef57baca1acf3b4fb81698ae7/images/cookie.gif"
+	"image": "https://cdn.rawgit.com/paulcowtan/mavo/d337b802ef450cfef57baca1acf3b4fb81698ae7/images/cookie.gif",
+	"width": "200",
+	"height": "100"
 }
